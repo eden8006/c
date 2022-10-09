@@ -1,0 +1,184 @@
+.section-title {
+  font-family: "Montserrat";
+  font-weight: bold;
+  font-size: 60px;
+  color: #000000;
+  text-align: center;
+  margin-bottom: 52px !important;
+}
+.kid-title {
+  font-family: 'Source Han Sans SC';
+  font-weight: 800;
+  font-size: 50px;
+  color: #fff;
+  text-align: center;
+  line-height: 96px;
+}
+#cnzz_stat_icon_1280118573 {
+  display: none;
+}
+.text-red {
+  color: #F74234 !important;
+}
+.text-blue {
+  color: #0052D4 !important;
+}
+.left {
+  float: left;
+}
+.right {
+  float: right;
+}
+.clear {
+  clear: both;
+}
+.pointer {
+  cursor: pointer;
+}
+.cursor-none {
+  cursor: none;
+}
+.img-inline {
+  position: relative;
+  display: inline-block;
+  zoom: 1;
+  vertical-align: middle;
+  max-width: 100%;
+  height: auto;
+  border: none;
+}
+.img-center {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  display: block;
+  max-width: 100%;
+  width: auto;
+  max-height: 100%;
+  height: auto;
+  margin: auto;
+  border: none;
+}
+.img-max {
+  display: block;
+  height: 100%;
+  border: none;
+}
+.img-cover {
+  display: block;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  max-width: none;
+  width: 100%;
+  max-height: none;
+  height: 100%;
+  margin: auto;
+  border: none;
+  object-position: 50% 50%;
+  object-fit: cover;
+}
+.flex {
+  display: flex !important;
+}
+.fade-enter,
+.fade-leave-to {
+  opacity: 0;
+}
+.fade-enter-active,
+.fade-leave-active {
+  transition: all 0.5s ease;
+}
+.move-enter,
+.move-leave-to {
+  opacity: 0;
+  transform: translateX(-500/7.5vw);
+}
+.move-enter-active,
+.move-leave-active {
+  transition: all 0.5s ease;
+}
+.textcontainer {
+  display: flex;
+  flex-direction: column;
+}
+p {
+  font-family: Montserrat;
+}
+.textcontainer p:first-child {
+  color: #e7482d;
+}
+.textcontainer .midtext {
+  color: #333333;
+  font-size: 42px;
+  font-weight: bold;
+}
+.textcontainer .textsmall {
+  font-size: 24px;
+  padding-top: 27px;
+  color: #58595b;
+}
+.gradient {
+  border-radius: 20px;
+  font-size: 20px;
+  text-align: center;
+  line-height: 60px;
+  color: #ffffff;
+  font-family: Montserrat;
+  background: linear-gradient(90deg, #e6422d 0%, #ffba35 100%);
+}
+.gradient-button {
+  display: inline-block;
+  min-width: 240px;
+  line-height: 60px;
+  font-family: Montserrat-Bold;
+  font-size: 20px;
+  color: #ffffff;
+  text-align: center;
+  border-radius: 30px;
+  cursor: pointer;
+  background: linear-gradient(90deg, #E6422D 0%, #FFBA35 100%);
+  box-shadow: 4px 6px 10px 0px rgba(230, 67, 45, 0.5);
+}
+.text {
+  font-size: 24px;
+  font-family: Montserrat;
+  font-weight: 400;
+  color: #252e36;
+  line-height: 34px;
+}
+.big-title {
+  font-size: 90px;
+  font-family: Montserrat;
+  font-weight: bold;
+  color: #212d3a;
+  line-height: 110px;
+}
+.hightlight {
+  font-size: 24px;
+  font-family: Montserrat;
+  font-weight: 400;
+  color: #e7482d;
+}
+.mid-text {
+  font-size: 42px;
+  font-family: Montserrat;
+  font-weight: bold;
+  color: #212d3a;
+  margin-top: 20px;
+}
+.small-text {
+  font-size: 24px;
+  font-family: Montserrat;
+  font-weight: 400;
+  color: #212d3a;
+  margin-top: 40px;
+}
+.text-left {
+  padding-left: 260px;
+  padding-top: 160px;
+}

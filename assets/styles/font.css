@@ -1,0 +1,31 @@
+@font-face {
+  font-family: Montserrat-SemiBold;
+  font-display: swap;
+  src: url("../font799/Montserrat-SemiBold-9.otf");
+}
+
+@font-face {
+  font-family: Montserrat-Regular;
+  font-display: swap;
+  src: url("../font799/Montserrat-Regular-8.otf");
+}
+
+@font-face {
+  font-family: Roboto-Regular;
+  font-display: swap;
+  src: url("../font799/Roboto-Regular.ttf");
+}
+
+@font-face {
+  font-family: Montserrat-Medium;
+  font-display: swap;
+  src: url("../font799/Montserrat-Medium-7.otf");
+}
+
+@font-face {
+  font-family: Montserrat-Bold;
+  font-display: swap;
+  src: url("../font799/Montserrat-Bold-3.otf");
+}
+
+

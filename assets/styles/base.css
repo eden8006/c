@@ -1,0 +1,45 @@
+* {
+  padding: 0;
+  margin: 0;
+  border: 0;
+}
+*::-webkit-scrollbar{
+  display: none;
+}
+
+body{
+  color: #212D3A;
+  font-family: Montserrat;
+}
+
+:root {
+  --x: 0;
+  --y: 0;
+  --size: 200px;
+  --radx: 0;
+  --rady: 0;
+  --navColor: #111;
+  --navShadow: #fff;
+  --navHoverColor: #3059ca;
+  --navHaverSize: 18px;
+}
+
+a {
+  text-decoration: none;
+  color: unset;
+}
+
+ul,
+li {
+  list-style: none;
+}
+
+/* button {
+  outline: none;
+} */
+
+/* p{
+  margin-bottom: 0;
+  margin-block-start: 0;
+  margin-block-end: 0;
+} */

@@ -1,0 +1,138 @@
+.FlexCC {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.FlexHC {
+  display: flex;
+  justify-content: center;
+}
+.FlexAW {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.FlexFW {
+  display: flex;
+  flex-flow: row wrap;
+}
+.FlexBet {
+  display: flex;
+  justify-content: space-between;
+}
+.FlexBC {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.FlexFC {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+.FlexAC {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.FlexVC {
+  display: flex;
+  align-items: center;
+}
+.FlexAround {
+  display: flex;
+  justify-content: space-around;
+}
+.FlexBar {
+  display: flex;
+}
+.FlexRC {
+  display: flex;
+  flex-direction: column;
+}
+.FlexRCE {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+.FlexRSA {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.FlexRSB {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.FlexRCC {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.FlexCCC {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.FlexCSA {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+.FlexRR {
+  display: flex;
+  flex-wrap: wrap;
+}
+.textAlignC {
+  text-align: center !important;
+}
+.textAlignL {
+  text-align: left !important;
+}
+.textAlignR {
+  text-align: right !important;
+}
+.flex {
+  display: flex;
+}
+.flex.jc-s {
+  justify-content: flex-start;
+}
+.flex.jc-c {
+  justify-content: center;
+}
+.flex.jc-e {
+  justify-content: end;
+}
+.flex.jc-sb {
+  justify-content: space-between;
+}
+.flex.jc-sa {
+  justify-content: space-around;
+}
+.flex.ai-fs {
+  align-items: flex-start;
+}
+.flex.ai-fe {
+  align-items: flex-end;
+}
+.flex.ai-c {
+  align-items: center;
+}
+.flex.ai-ba {
+  align-items: baseline;
+}
+.flex.ai-st {
+  align-items: stretch;
+}
+.flex.flex-dc {
+  flex-direction: column;
+}
+.flex-table {
+  flex: auto;
+}
